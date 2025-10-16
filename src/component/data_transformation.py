@@ -1,0 +1,1 @@
+#This python script is mainly used for transforming the collected data applicable for our model.

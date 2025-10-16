@@ -11,8 +11,8 @@ def find_requirements(folder_path:str)->List[str]:
 
 setup( name = 'ML-Project',
       version='1.0.0',
-      packages = find_packages(),
       author= 'BlueGod',
       author_email='roboticsengineer01@gmail.com',
+       packages = find_packages(),
       install_requires = find_requirements('requirements.txt')
 )

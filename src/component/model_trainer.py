@@ -1,0 +1,1 @@
+#This python script is basically used for training our model

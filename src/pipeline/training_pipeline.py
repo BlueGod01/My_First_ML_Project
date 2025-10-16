@@ -1,0 +1,1 @@
+#this script is used for creating a training pipeline using the modules in components folder
