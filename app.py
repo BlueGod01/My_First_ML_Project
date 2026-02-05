@@ -1,0 +1,1 @@
+'''The entry point to the software. Here UI and all assembling of other functionalities code will be written. This code will interact with user-end. Hence kept in root directory to easily execute in deployment scenarios.'''
